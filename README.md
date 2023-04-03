@@ -10,7 +10,7 @@ Maximum possible speed for SCK: 33MHz
 
 ## Temperature tests for Rpi4B 
 
-Temperature test was done using **stressberry-run**
+Temperature tests were done using the **stressberry-run**
 
 ### Small heat sink
 
